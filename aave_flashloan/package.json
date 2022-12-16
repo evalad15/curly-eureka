@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@aave/core-v3": "^1.16.2-beta.4",
+    "@openzeppelin/contracts": "^4.8.0",
+    "@openzeppelin/test-helpers": "^0.5.16"
+  }
+}
